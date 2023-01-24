@@ -1,4 +1,3 @@
-// Functions
 // Create a function for multiplying 3 numbers and call that function in the the main function and print the result
 package main
 

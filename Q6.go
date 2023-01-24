@@ -3,7 +3,6 @@
 // Output should be like this
 // I am abc
 // I am abc
-// I am abc
 package main
 
 import "fmt"
